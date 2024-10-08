@@ -1,0 +1,49 @@
+.div{
+    width: 500px;
+    height: auto;
+    border-width: 2px;
+    border-style: solid;
+}
+.header{
+height: 100px;
+border-width: 2px;
+border-style: solid;
+margin: 10px;
+}
+.navi-1,.navi-2{
+    width: 80px;
+    height: 50px;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    margin: 10px;
+}
+.navi-1{
+    margin-right: 270px;
+}
+.main{
+    height:100px ;
+    border-width: 2px;
+    border-style: solid;
+    margin: 10px;
+}
+.a{
+    width: 140px;
+    height: 100px;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    margin: 10px;
+
+}
+.footer{
+    width: 480px;
+    height: 100px;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    margin: 10px;
+}
+*{
+    border-width: 2px !important;
+}
